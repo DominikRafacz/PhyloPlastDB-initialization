@@ -1,0 +1,5 @@
+.Rhistory
+output/
+.Rproj.user/
+.RData
+properties.json
