@@ -24,17 +24,17 @@ CREATE TABLE "Organism" (
 
 CREATE TABLE "GeneName" (
   "ID" SERIAL PRIMARY KEY,
-  "Value" varchar NOT NULL
+  "Value" varchar
 );
 
 CREATE TABLE "AAProductName" (
   "ID" SERIAL PRIMARY KEY,
-  "Value" varchar NOT NULL
+  "Value" varchar
 );
 
 CREATE TABLE "RNAProductName" (
   "ID" SERIAL PRIMARY KEY,
-  "Value" varchar NOT NULL
+  "Value" varchar
 );
 
 CREATE TABLE "Product" (
