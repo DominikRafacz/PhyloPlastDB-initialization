@@ -1,0 +1,5 @@
+source("R/set_up.R")
+source("R/read_tables.R")
+source("R/create_structure.R")
+source("R/load_sequences.R")
+source("R/export_to_csv.R")

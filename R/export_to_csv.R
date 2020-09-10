@@ -1,0 +1,6 @@
+write_csv(Sequence, "output/Sequence.csv", na = "")
+write_csv(AAProductName, "output/AAProductName.csv", na = "")
+write_csv(RNAProductName, "output/RNAProductName.csv", na = "")
+write_csv(GeneName, "output/GeneName.csv", na = "")
+write_csv(Organism, "output/Organism.csv", na = "")
+write_csv(Product, "output/Product.csv", na = "")
