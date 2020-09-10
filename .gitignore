@@ -1,5 +1,5 @@
 .Rhistory
-output/
+output/*.csv
 .Rproj.user/
 .RData
 properties.json
